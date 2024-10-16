@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1584205420 source:d:\rifat\varsity documents\fall 20\cse225l\lab 4\operator overloading\main.cpp
+	<iostream>
+
+1605431435 source:d:\rifat\varsity documents\fall 20\cse225l\lab 4\operator overloading\complexnumber.cpp
+	"complexNumber.h"
+
+1605431413 d:\rifat\varsity documents\fall 20\cse225l\lab 4\operator overloading\complexnumber.h
+
+1605431435 source:d:\rifat\varsity documents\fall 20\cse225l\lab 3\operator overloading\complexnumber.cpp
+	"complexNumber.h"
+
+1605431616 d:\rifat\varsity documents\fall 20\cse225l\lab 3\operator overloading\complexnumber.h
+

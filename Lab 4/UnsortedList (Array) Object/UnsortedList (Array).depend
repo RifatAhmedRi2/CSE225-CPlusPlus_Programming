@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1605887907 source:d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array)\unsortedtype.cpp
+	"UnsortedType.h"
+
+1605884698 d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array)\unsortedtype.h
+
+1605889435 source:d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array)\main.cpp
+	<bits/stdc++.h>
+	"unsortedtype.cpp"
+
+1605887907 d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array)\unsortedtype.cpp
+	"UnsortedType.h"
+
+1605887907 source:d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\unsortedtype.cpp
+	"UnsortedType.h"
+
+1605884698 d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\unsortedtype.h
+
+1605894345 source:d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\main.cpp
+	<bits/stdc++.h>
+	"unsortedtype2.cpp"
+	"studentInfo.cpp"
+	<string>
+
+1605894351 d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\unsortedtype2.cpp
+	"UnsortedType2.h"
+
+1605894345 d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\unsortedtype2.h
+
+1606737627 d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\studentinfo.cpp
+	<bits/stdc++.h>
+	"studentInfo.h"
+	<string>
+
+1605892979 d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\studentinfo.h
+	<string>
+
+1605894351 source:d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\unsortedtype2.cpp
+	"UnsortedType2.h"
+
+1605894637 source:d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\studentinfo.cpp
+	<bits/stdc++.h>
+	"studentInfo.h"
+	<string>
+
+1605895267 source:d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\main2.cpp
+	<bits/stdc++.h>
+	"unsortedtype.cpp"
+	"studentInfo.cpp"
+	<string>
+
+1605887907 d:\rifat\varsity documents\fall 20\cse225l\lab 4\unsortedlist (array) object\unsortedtype.cpp
+	"UnsortedType.h"
+

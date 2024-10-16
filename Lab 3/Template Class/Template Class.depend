@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1605259562 source:d:\rifat\varsity documents\fall 20\cse225l\lab 3\template class\dynarr.cpp
+	"dynarr.h"
+
+1605258633 d:\rifat\varsity documents\fall 20\cse225l\lab 3\template class\dynarr.h
+
+1605258211 source:d:\rifat\varsity documents\fall 20\cse225l\lab 3\template class\main.cpp
+	<iostream>
+	"dynarr.h"
+	"dynarr.cpp"
+
+1605259562 d:\rifat\varsity documents\fall 20\cse225l\lab 3\template class\dynarr.cpp
+	"dynarr.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:d:\rifat\varsity documents\fall 20\cse225l\lab 3\task 2\main.cpp
+	<iostream>
+
+1605435054 source:d:\rifat\varsity documents\fall 20\cse225l\lab 3\task 2\complex.cpp
+	"complex.h"
+	<iostream>
+
+1605434473 d:\rifat\varsity documents\fall 20\cse225l\lab 3\task 2\complex.h
+
