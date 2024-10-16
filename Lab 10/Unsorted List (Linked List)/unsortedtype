@@ -1,0 +1,6 @@
+#include "unsortedtype."
+
+unsortedtype::unsortedtype()
+{
+    //ctor
+}

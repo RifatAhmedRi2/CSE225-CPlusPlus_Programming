@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1609063419 source:d:\rifat\varsity documents\fall 20\cse225l\lab 10\unsorted list (linked list)\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1609059686 d:\rifat\varsity documents\fall 20\cse225l\lab 10\unsorted list (linked list)\unsortedtype.h
+
+1610866431 source:d:\rifat\varsity documents\fall 20\cse225l\lab 10\unsorted list (linked list)\main.cpp
+	<iostream>
+	"UnsortedType.h"
+	"UnsortedType.cpp"
+
+1609063419 d:\rifat\varsity documents\fall 20\cse225l\lab 10\unsorted list (linked list)\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+

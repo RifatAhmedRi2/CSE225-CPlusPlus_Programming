@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608022597 source:d:\rifat\varsity documents\fall 20\cse225l\lab 9\queue (linked list)\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1608022562 d:\rifat\varsity documents\fall 20\cse225l\lab 9\queue (linked list)\quetype.h
+
+1608066886 source:d:\rifat\varsity documents\fall 20\cse225l\lab 9\queue (linked list)\main.cpp
+	<iostream>
+	"quetype.h"
+	"quetype.cpp"
+	<cmath>
+
+1608022597 d:\rifat\varsity documents\fall 20\cse225l\lab 9\queue (linked list)\quetype.cpp
+	"quetype.h"
+	<iostream>
+

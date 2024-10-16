@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1610437854 source:d:\rifat\varsity documents\fall 20\cse225l\lab 15\graph\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1610432447 d:\rifat\varsity documents\fall 20\cse225l\lab 15\graph\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1610268987 d:\rifat\varsity documents\fall 20\cse225l\lab 15\graph\stacktype.h
+
+1610269049 d:\rifat\varsity documents\fall 20\cse225l\lab 15\graph\quetype.h
+
+1610269023 d:\rifat\varsity documents\fall 20\cse225l\lab 15\graph\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1608022597 d:\rifat\varsity documents\fall 20\cse225l\lab 15\graph\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1608022597 source:d:\rifat\varsity documents\fall 20\cse225l\lab 15\graph\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1610269023 source:d:\rifat\varsity documents\fall 20\cse225l\lab 15\graph\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1610466963 source:d:\rifat\varsity documents\fall 20\cse225l\lab 15\graph\main.cpp
+	<iostream>
+	"graphtype.h"
+	"graphtype.cpp"
+
+1610437854 d:\rifat\varsity documents\fall 20\cse225l\lab 15\graph\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+

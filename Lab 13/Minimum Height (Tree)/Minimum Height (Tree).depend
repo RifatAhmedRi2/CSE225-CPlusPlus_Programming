@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1609826900 source:d:\rifat\varsity documents\fall 20\cse225l\lab 13\binary search tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1609826370 d:\rifat\varsity documents\fall 20\cse225l\lab 13\binary search tree\binarysearchtree.h
+	"quetype.h"
+
+1609826234 d:\rifat\varsity documents\fall 20\cse225l\lab 13\binary search tree\quetype.h
+
+1609826241 d:\rifat\varsity documents\fall 20\cse225l\lab 13\binary search tree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1609826211 source:d:\rifat\varsity documents\fall 20\cse225l\lab 13\binary search tree\main.cpp
+	<iostream>
+	"binarysearchtree.cpp"
+
+1609826354 d:\rifat\varsity documents\fall 20\cse225l\lab 13\binary search tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1609826241 source:d:\rifat\varsity documents\fall 20\cse225l\lab 13\binary search tree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1609826900 source:d:\rifat\varsity documents\fall 20\cse225l\lab 13\minimum height (tree)\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1609826370 d:\rifat\varsity documents\fall 20\cse225l\lab 13\minimum height (tree)\binarysearchtree.h
+	"quetype.h"
+
+1609826234 d:\rifat\varsity documents\fall 20\cse225l\lab 13\minimum height (tree)\quetype.h
+
+1609826241 d:\rifat\varsity documents\fall 20\cse225l\lab 13\minimum height (tree)\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1609826241 source:d:\rifat\varsity documents\fall 20\cse225l\lab 13\minimum height (tree)\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1609868850 source:d:\rifat\varsity documents\fall 20\cse225l\lab 13\minimum height (tree)\main.cpp
+	<iostream>
+	"binarysearchtree.cpp"
+
+1609826900 d:\rifat\varsity documents\fall 20\cse225l\lab 13\minimum height (tree)\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+

@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1609692446 source:d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp\main.cpp
+	<iostream>
+	"SortedType.cpp"
+	"timeStamp.cpp"
+
+1609690514 d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1609690053 d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp\sortedtype.h
+
+1609692635 d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp\timestamp.cpp
+	"timeStamp.h"
+	<iostream>
+
+1609692223 d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp\timestamp.h
+	<iostream>
+
+1609690514 source:d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1609692635 source:d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp\timestamp.cpp
+	"timeStamp.h"
+	<iostream>
+
+1609690514 source:d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp - copy\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1609690053 d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp - copy\sortedtype.h
+
+1610864686 source:d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp - copy\timestamp.cpp
+	"timeStamp.h"
+
+1610864686 d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp - copy\timestamp.h
+
+1610864438 source:d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp - copy\main.cpp
+	<iostream>
+	"sortedtype.cpp"
+	"timeStamp.h"
+
+1609690514 d:\rifat\varsity documents\fall 20\cse225l\lab 11\timestamp - copy\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
