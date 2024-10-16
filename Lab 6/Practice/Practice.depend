@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606641477 source:d:\rifat\varsity documents\fall 20\cse225l\lab 6\practice\stacktype.cpp
+	"stackType.h"
+
+1606641489 d:\rifat\varsity documents\fall 20\cse225l\lab 6\practice\stacktype.h
+
+1606643167 source:d:\rifat\varsity documents\fall 20\cse225l\lab 6\practice\main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1606641477 d:\rifat\varsity documents\fall 20\cse225l\lab 6\practice\stacktype.cpp
+	"stackType.h"
+

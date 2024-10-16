@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606219243 source:d:\rifat\varsity documents\fall 20\cse225l\lab 6\parentheses check\stacktype.cpp
+	"stackType.h"
+
+1606219246 d:\rifat\varsity documents\fall 20\cse225l\lab 6\parentheses check\stacktype.h
+
+1606225282 source:d:\rifat\varsity documents\fall 20\cse225l\lab 6\parentheses check\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"stacktype.cpp"
+
+1606219243 d:\rifat\varsity documents\fall 20\cse225l\lab 6\parentheses check\stacktype.cpp
+	"stackType.h"
+

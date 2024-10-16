@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1584205420 source:d:\rifat\varsity documents\fall 20\cse225l\lab 4\sortedlist\main.cpp
+	<iostream>
+
+1606040206 source:d:\rifat\varsity documents\fall 20\cse225l\lab 5\sortedlist\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1606037417 d:\rifat\varsity documents\fall 20\cse225l\lab 5\sortedlist\sortedtype.h
+
+1606040286 source:d:\rifat\varsity documents\fall 20\cse225l\lab 5\sortedlist\main.cpp
+	<iostream>
+	"SortedType.cpp"
+
+1606040206 d:\rifat\varsity documents\fall 20\cse225l\lab 5\sortedlist\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+

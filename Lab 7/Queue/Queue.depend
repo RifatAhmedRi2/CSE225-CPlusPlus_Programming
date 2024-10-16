@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1608024135 source:d:\rifat\varsity documents\fall 20\cse225l\lab 7\queue\quetype.cpp
+	"QueType.h"
+
+1608024134 d:\rifat\varsity documents\fall 20\cse225l\lab 7\queue\quetype.h
+
+1608024107 source:d:\rifat\varsity documents\fall 20\cse225l\lab 7\queue\main.cpp
+	<iostream>
+	"QueType.h"
+	"QueType.cpp"
+
+1608024135 d:\rifat\varsity documents\fall 20\cse225l\lab 7\queue\quetype.cpp
+	"QueType.h"
+
